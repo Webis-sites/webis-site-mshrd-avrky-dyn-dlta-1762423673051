@@ -4,6 +4,7 @@ import React from 'react';
 import HeroSection from '@/components/HeroSection';
 import ServicesSection from '@/components/ServicesSection';
 import ExpertiseSection from '@/components/ExpertiseSection';
+import PortfolioSection from '@/components/PortfolioSection';
 
 export default function HomePage() {
   return (
@@ -14,6 +15,7 @@ export default function HomePage() {
         <HeroSection />
         <ServicesSection />
         <ExpertiseSection />
+        <PortfolioSection />
       </main>
     </>
   );
