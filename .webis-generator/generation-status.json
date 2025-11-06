@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-11-06T10:17:43.370Z",
+  "timestamp": "2025-11-06T13:59:47.000Z",
   "status": {
     "totalComponents": 10,
-    "completedComponents": 10,
+    "completedComponents": 5,
     "failedComponents": 0,
-    "progress": 100
+    "progress": 50
   },
   "components": [
     {
@@ -40,31 +40,31 @@
     {
       "name": "ProductsSection",
       "type": "products",
-      "status": "completed",
+      "status": "in_progress",
       "description": "Display of legal products and packages offered by the firm"
     },
     {
       "name": "ProcessSection",
       "type": "content",
-      "status": "completed",
+      "status": "in_progress",
       "description": "Step-by-step visualization of the client engagement process"
     },
     {
       "name": "WhyChooseUsSection",
       "type": "content",
-      "status": "completed",
+      "status": "waiting",
       "description": "Compelling reasons and unique value propositions for choosing the firm"
     },
     {
       "name": "ContactSection",
       "type": "contact",
-      "status": "completed",
+      "status": "waiting",
       "description": "Contact form and information for potential clients to reach out"
     },
     {
       "name": "Footer",
       "type": "footer",
-      "status": "completed",
+      "status": "waiting",
       "description": "Comprehensive footer with business information, links, and legal notices"
     }
   ],
