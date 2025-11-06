@@ -9,6 +9,7 @@ import ProductsSection from '@/components/ProductsSection';
 import ProcessSection from '@/components/ProcessSection';
 import WhyChooseUsSection from '@/components/WhyChooseUsSection';
 import ContactSection from '@/components/ContactSection';
+import Footer from '@/components/Footer';
 
 export default function HomePage() {
   return (
@@ -24,6 +25,7 @@ export default function HomePage() {
         <ProcessSection />
         <WhyChooseUsSection />
         <ContactSection />
+        <Footer />
       </main>
     </>
   );
