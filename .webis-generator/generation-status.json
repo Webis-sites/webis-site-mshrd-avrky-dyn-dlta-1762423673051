@@ -1,8 +1,11 @@
 {
-  "projectName": "משרד-עורכי-דין-דלתא-3673",
-  "businessName": "משרד עורכי דין דלתא",
-  "created": "2025-11-06T10:07:53.307Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-11-06T10:08:23.711Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-mshrd-avrky-dyn-dlta-1762423673051"
 }
