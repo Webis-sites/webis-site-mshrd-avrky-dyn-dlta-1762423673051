@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-11-06T10:11:17.787Z",
+  "timestamp": "2025-11-06T10:11:52.624Z",
   "status": {
     "totalComponents": 10,
-    "completedComponents": 3,
+    "completedComponents": 4,
     "failedComponents": 0,
-    "progress": 30
+    "progress": 40
   },
   "components": [
     {
@@ -28,7 +28,7 @@
     {
       "name": "ExpertiseSection",
       "type": "content",
-      "status": "pending",
+      "status": "completed",
       "description": "Detailed section highlighting the firm's expertise and experience in technology and food law"
     },
     {
