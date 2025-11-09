@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-11-09T15:26:52.852Z",
+  "timestamp": "2025-11-09T15:27:40.873Z",
   "status": {
     "totalComponents": 10,
-    "completedComponents": 6,
+    "completedComponents": 7,
     "failedComponents": 0,
-    "progress": 60
+    "progress": 70
   },
   "components": [
     {
@@ -46,7 +46,7 @@
     {
       "name": "WhyChooseUsSection",
       "type": "features",
-      "status": "pending",
+      "status": "completed",
       "description": "Compelling reasons and unique value propositions for choosing the firm"
     },
     {
