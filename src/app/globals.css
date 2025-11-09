@@ -12,6 +12,9 @@
     
   --navbar-height: 5rem;
   --transition-duration: 0.3s;
+
+  --color-primary: #4ECDC4;
+  --color-secondary: #588C7E;
 }
 
     html {
