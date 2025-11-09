@@ -15,6 +15,10 @@
 
   --color-primary: #4ECDC4;
   --color-secondary: #588C7E;
+
+  --footer-bg-start: #0f172a;
+  --footer-bg-end: #1e293b;
+  --accent-color: #4ECDC4;
 }
 
     html {
