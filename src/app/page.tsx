@@ -7,6 +7,7 @@ import PracticeAreasSection from '@/components/PracticeAreasSection';
 import PortfolioSection from '@/components/PortfolioSection';
 import ProcessSection from '@/components/ProcessSection';
 import WhyChooseUsSection from '@/components/WhyChooseUsSection';
+import BookingSection from '@/components/BookingSection';
 
 export default function HomePage() {
   return (
@@ -20,6 +21,7 @@ export default function HomePage() {
         <PortfolioSection />
         <ProcessSection />
         <WhyChooseUsSection />
+        <BookingSection />
       </main>
     </>
   );
