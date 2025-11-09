@@ -4,7 +4,6 @@ const nextConfig = {
   images: {
     domains: ['images.unsplash.com', 'via.placeholder.com'],
   },
-
   async headers() {
     return [
       {
@@ -12,11 +11,11 @@ const nextConfig = {
         headers: [
           {
             key: 'X-Frame-Options',
-            value: '', // allows embedding on the same domain
+            value: '', // or remove if you want full iframe access
           },
           {
             key: 'Content-Security-Policy',
-            value: "frame-ancestors *", // allows all domains to embed (modern alternative)
+            value: 'frame-ancestors *', // allows all domains to embed your site
           },
         ],
       },
