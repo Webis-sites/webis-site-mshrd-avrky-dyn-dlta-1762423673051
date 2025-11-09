@@ -8,6 +8,7 @@ import PortfolioSection from '@/components/PortfolioSection';
 import ProcessSection from '@/components/ProcessSection';
 import WhyChooseUsSection from '@/components/WhyChooseUsSection';
 import BookingSection from '@/components/BookingSection';
+import CTASection from '@/components/CTASection';
 
 export default function HomePage() {
   return (
@@ -22,6 +23,7 @@ export default function HomePage() {
         <ProcessSection />
         <WhyChooseUsSection />
         <BookingSection />
+        <CTASection />
       </main>
     </>
   );
