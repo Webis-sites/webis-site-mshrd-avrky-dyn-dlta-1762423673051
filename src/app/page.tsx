@@ -6,6 +6,7 @@ import AboutSection from '@/components/AboutSection';
 import PracticeAreasSection from '@/components/PracticeAreasSection';
 import PortfolioSection from '@/components/PortfolioSection';
 import ProcessSection from '@/components/ProcessSection';
+import WhyChooseUsSection from '@/components/WhyChooseUsSection';
 
 export default function HomePage() {
   return (
@@ -18,6 +19,7 @@ export default function HomePage() {
         <PracticeAreasSection />
         <PortfolioSection />
         <ProcessSection />
+        <WhyChooseUsSection />
       </main>
     </>
   );
