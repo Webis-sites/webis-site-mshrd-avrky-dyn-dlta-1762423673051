@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-06T10:17:59.100Z",
+  "timestamp": "2025-11-09T15:18:14.836Z",
   "steps": {
     "planGenerated": false,
     "componentsGenerated": false,
@@ -9,6 +9,6 @@
     "deploymentStarted": false,
     "deploymentComplete": false
   },
-  "deployedUrl": "https://webis-site-mshrd-avrky-dyn-dlta-176.vercel.app/",
+  "deployedUrl": null,
   "error": null
 }
