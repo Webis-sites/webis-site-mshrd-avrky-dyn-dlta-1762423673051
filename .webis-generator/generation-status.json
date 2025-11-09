@@ -1,72 +1,8 @@
 {
-  "timestamp": "2025-11-06T13:59:47.000Z",
-  "status": {
-    "totalComponents": 10,
-    "completedComponents": 5,
-    "failedComponents": 0,
-    "progress": 50
-  },
-  "components": [
-    {
-      "name": "Navbar",
-      "type": "navigation",
-      "status": "completed",
-      "description": "RTL-aware navigation bar with business branding and smooth scroll links to page sections"
-    },
-    {
-      "name": "HeroSection",
-      "type": "hero",
-      "status": "completed",
-      "description": "Compelling hero section with headline, description, and primary CTA for law firm"
-    },
-    {
-      "name": "ServicesSection",
-      "type": "services",
-      "status": "completed",
-      "description": "Showcase of legal services offered by the firm with icons and descriptions"
-    },
-    {
-      "name": "ExpertiseSection",
-      "type": "content",
-      "status": "completed",
-      "description": "Detailed section highlighting the firm's expertise and experience in technology and food law"
-    },
-    {
-      "name": "PortfolioSection",
-      "type": "portfolio",
-      "status": "completed",
-      "description": "Showcase of successful cases and client work in an elegant gallery format"
-    },
-    {
-      "name": "ProductsSection",
-      "type": "products",
-      "status": "in_progress",
-      "description": "Display of legal products and packages offered by the firm"
-    },
-    {
-      "name": "ProcessSection",
-      "type": "content",
-      "status": "in_progress",
-      "description": "Step-by-step visualization of the client engagement process"
-    },
-    {
-      "name": "WhyChooseUsSection",
-      "type": "content",
-      "status": "waiting",
-      "description": "Compelling reasons and unique value propositions for choosing the firm"
-    },
-    {
-      "name": "ContactSection",
-      "type": "contact",
-      "status": "waiting",
-      "description": "Contact form and information for potential clients to reach out"
-    },
-    {
-      "name": "Footer",
-      "type": "footer",
-      "status": "waiting",
-      "description": "Comprehensive footer with business information, links, and legal notices"
-    }
-  ],
-  "repoName": "webis-site-mshrd-avrky-dyn-dlta-1762423673051"
+  "projectName": "משרד-עורכי-דין-דלתא-1492",
+  "businessName": "משרד עורכי דין דלתא",
+  "created": "2025-11-09T15:18:14.836Z",
+  "status": "initialized",
+  "progress": 0,
+  "components": []
 }
