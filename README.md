@@ -27,7 +27,7 @@ A modern website for משרד עורכי דין דלתא, generated with webis-g
 
 ## Generation Information
 
-- Generated on: 11/9/2025, 3:18:14 PM
+- Generated on: 11/13/2025, 4:00:49 PM
 - Business Name: משרד עורכי דין דלתא
 - Business Type: משרד עורכי דין
-- Industry: שירותים
+- Industry: בידור
