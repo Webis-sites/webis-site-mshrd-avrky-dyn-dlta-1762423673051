@@ -1,72 +1,8 @@
 {
-  "timestamp": "2025-11-09T15:31:22.859Z",
-  "status": {
-    "totalComponents": 10,
-    "completedComponents": 10,
-    "failedComponents": 0,
-    "progress": 100
-  },
-  "components": [
-    {
-      "name": "Navbar",
-      "type": "navigation",
-      "status": "completed",
-      "description": "RTL-aware navigation bar with business branding and smooth scroll links to page sections"
-    },
-    {
-      "name": "HeroSection",
-      "type": "hero",
-      "status": "completed",
-      "description": "Impactful hero section with headline, value proposition, and primary CTA for law firm"
-    },
-    {
-      "name": "AboutSection",
-      "type": "about",
-      "status": "completed",
-      "description": "Comprehensive about section highlighting firm expertise, experience, and values in education law"
-    },
-    {
-      "name": "PracticeAreasSection",
-      "type": "services",
-      "status": "completed",
-      "description": "Showcase of legal practice areas and specializations with focus on education law"
-    },
-    {
-      "name": "PortfolioSection",
-      "type": "portfolio",
-      "status": "completed",
-      "description": "Case studies and success stories showcasing the firm's achievements in education law"
-    },
-    {
-      "name": "ProcessSection",
-      "type": "process",
-      "status": "completed",
-      "description": "Step-by-step visualization of the client journey and legal process"
-    },
-    {
-      "name": "WhyChooseUsSection",
-      "type": "features",
-      "status": "completed",
-      "description": "Compelling reasons and unique value propositions for choosing the firm"
-    },
-    {
-      "name": "BookingSection",
-      "type": "booking",
-      "status": "completed",
-      "description": "Integrated appointment booking form with validation and user feedback"
-    },
-    {
-      "name": "CTASection",
-      "type": "cta",
-      "status": "completed",
-      "description": "Final conversion-focused call-to-action section before footer"
-    },
-    {
-      "name": "Footer",
-      "type": "footer",
-      "status": "completed",
-      "description": "Comprehensive footer with contact information, links, and legal disclaimers"
-    }
-  ],
-  "repoName": "webis-site-mshrd-avrky-dyn-dlta-1762423673051"
+  "projectName": "משרד-עורכי-דין-דלתא-9645",
+  "businessName": "משרד עורכי דין דלתא",
+  "created": "2025-11-13T16:00:49.477Z",
+  "status": "initialized",
+  "progress": 0,
+  "components": []
 }
