@@ -12,6 +12,8 @@
     
   --font-size-base: 1rem;
   --navbar-height: 4rem;
+
+  --font-playful: 'Heebo', 'Rubik', sans-serif;
 }
 
     html {
